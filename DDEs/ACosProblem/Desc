@@ -1,0 +1,3 @@
+This is a simple example of the chaotic nature of DDEs and 
+limitations of numerical solutions. With different sample sizes,
+we can see how quickly solutions begin to disagree.
