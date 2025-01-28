@@ -1,0 +1,7 @@
+/tmp/tmpvuakhhiy/dolfin_expression_d43304f8ec15025f596f6515e10128c7.cpp: In member function ‘virtual void dolfin::dolfin_expression_d43304f8ec15025f596f6515e10128c7::eval(Eigen::Ref<Eigen::Matrix<double, -1, 1> >, Eigen::Ref<const Eigen::Matrix<double, -1, 1> >) const’:
+/tmp/tmpvuakhhiy/dolfin_expression_d43304f8ec15025f596f6515e10128c7.cpp:61:23: error: ‘g’ was not declared in this scope
+   61 |           values[0] = g(x[0])*u-pow(u,2);
+      |                       ^
+/tmp/tmpvuakhhiy/dolfin_expression_d43304f8ec15025f596f6515e10128c7.cpp:61:31: error: ‘u’ was not declared in this scope
+   61 |           values[0] = g(x[0])*u-pow(u,2);
+      |                               ^
